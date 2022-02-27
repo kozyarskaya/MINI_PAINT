@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1645990166 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\main.cpp
+	<fstream>
+	<Windows.h>
+	<iostream>
+	<vector>
+	<string>
+	"mini_paint.h"
+
+1645958605 c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\mini_paint.h
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<Windows.h>
+
+1645958409 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\width_height_background_char.cpp
+	"mini_paint.h"
+
+1645628631 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\r_x_y_width_height_char.cpp
+	"mini_paint.h"
+
+1645987511 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\l_x_y_x1_y1_char.cpp
+	"mini_paint.h"
+
+1645604147 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\check_size.cpp
+	"mini_paint.h"
+
+1645958605 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\r_x_y_width_height_char2.cpp
+	"mini_paint.h"
+
+1645986577 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\c_x_y_radius_char.cpp
+	"mini_paint.h"
+
+1645986577 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\c_x_y_radius_char2.cpp
+	"mini_paint.h"
+
+1645747976 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\itc_find_str.cpp
+	"mini_paint.h"
+
+1645747976 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\itc_len.cpp
+	"mini_paint.h"
+
+1645747976 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\itc_slice_str.cpp
+	"mini_paint.h"
+
+1645989802 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\read_file.cpp
+	"mini_paint.h"
+
+1645753441 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\itc_call.cpp
+	"mini_paint.h"
+
+1645954237 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\pars.cpp
+	"mini_paint.h"
+
+1645911246 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\itc_str_to_int.cpp
+	"mini_paint.h"
+
+1645988225 source:c:\users\sofiy\onedrive\Рабочий стол\Школа\Информатика\functions_c++\mini_paint\run_programm.cpp
+	"mini_paint.h"
+
