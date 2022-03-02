@@ -6,13 +6,13 @@ void c(vector<vector<char>> &background, float x1, float y1, float radius, char 
     radius = int(radius);
     int x = 0, y = radius, gap = 0, delta = (2 - 2 * radius);
     while (y >= 0)
-            {   if ((x1 + x) < background[0].size() && (y1 + y) < background.size())
+            {   if (itc_abs((x1 + x)) < background[0].size() && itc_abs((y1 + y)) < background.size())
                     background[y1 + y][x1 + x] = ch;
-                if ((x1 + x) < background[0].size() && (y1 - y) < background.size())
+                if (itc_abs((x1 + x)) < background[0].size() && itc_abs((y1 - y)) < background.size())
                     background[y1 - y][x1 + x] = ch;
-                if ((x1 - x) < background[0].size() && (y1 + y) < background.size())
+                if (itc_abs((x1 - x)) < background[0].size() && itc_abs((y1 + y)) < background.size())
                     background[y1 + y][x1 - x] = ch;
-                if ((x1 - x) < background[0].size() && (y1 - y) < background.size())
+                if (itc_abs((x1 - x)) < background[0].size() && itc_abs((y1 - y)) < background.size())
                     background[y1 - y][x1 - x] = ch;
 
                 gap = 2 * (delta + y) - 1;
